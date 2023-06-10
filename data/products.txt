@@ -1,0 +1,11 @@
+{
+  "water": "5", 
+  "coca-cola": "17", 
+  "short-bread": 12, 
+  "vimto": "20", 
+  "biscuit": "7",
+  "yorcut": "17",
+  "milk": "35",
+  "banana cream": "35"
+
+}
